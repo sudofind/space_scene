@@ -1,0 +1,3 @@
+/src/versions/test/CMakeFiles/rebuild_cache.dir
+/src/versions/test/CMakeFiles/edit_cache.dir
+/src/versions/test/CMakeFiles/main.dir
